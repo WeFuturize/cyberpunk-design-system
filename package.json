@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/we-futurize.cyberpunk",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve S8JZYgq006GfLtHx686l --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
