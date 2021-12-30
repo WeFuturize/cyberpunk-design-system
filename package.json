@@ -9,5 +9,7 @@
     "serve": "npx backlight@latest serve S8JZYgq006GfLtHx686l --open"
   },
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "lit": "^2.0.0"
+  }
 }
